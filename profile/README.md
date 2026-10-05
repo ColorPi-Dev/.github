@@ -1,7 +1,8 @@
 ## Hi there I'm ColorPi-Dev👋
 ### 🎨About Me
-・👨私たちは主にDiscordなどで活動しています。<br>
-・💻よく使う言語は「Python」「TypeScript」「Golang」
+- 👨私たちは主にDiscordなどで活動しています。
+- 💻よく使う言語は「Python」「TypeScript」「Golang」
+- 🦈もともとはSharkBot名義で活動していました。
 
 <!--
 
